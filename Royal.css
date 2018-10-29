@@ -1,0 +1,140 @@
+body{
+    background-color: oldlace;
+    
+}
+.contact{
+    background-image: url("butterbread.jpg");
+    height: 100%;
+    width: 100%;
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+}
+.about{
+    background-image: url("butterbread.jpg");
+    height: 100%;
+    width: 100%;
+    background-size:100% 100%;
+    background-repeat: no-repeat;
+    color:white;
+    text-align: justify;
+    padding: 120px;
+} 
+
+
+.text{
+    color: white;
+    background-position: center;
+    padding: 20%;
+    margin-left: 250px;
+    
+}
+#koo {
+    color: orange;
+    margin-bottom: 20px;
+    
+}
+#foo:hover{
+   color:purple;
+}
+#foo{
+    color:burlywood;
+    margin-left:150px;
+}
+#navigate{
+    color: orangered;
+}
+#top{
+    background-image: url("splash.cake2.jpg");
+    height: 60%;
+    width: 100%;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    
+}
+#top:hover{
+    background-image: url("brownBread.jpg");
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+    height: 60%;
+    width: 100%;
+
+}
+.hello{
+    text-align: center;
+    background-color: aliceblue;
+    width: 45%;
+    background-position: right;
+}
+.middle{
+    display: flex;
+    background-color: rgba(1,1,1,0.8);
+    height: 250px;
+    width: 100%;
+}
+.one{
+    background-image: url("meatpie.jpg");
+    height: 250px;
+    width: 100%;
+    background-size: 100% 100%;
+    margin: 0;
+    padding:0;
+    background-repeat: no repeat;
+    background-position: center;
+    
+
+}
+.two{
+    background-image: url("darkcake.jpg");
+    height: 250px;
+    width: 65%;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+    background-repeat: no repeat;
+    
+}
+.three{
+    background-image: url("breadroll.jpg");
+    height: 250px;
+    width:65%;
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+    background-repeat: no-repeat;
+}
+.fooot{
+    height: 250px;
+    width: 100%;
+}
+.footerZero{
+    display: flex;
+    background-color: rgba(1,1,1,0.8);
+    height: 250px;
+    width: 100%;  
+}
+.footerOne{
+    background-image: url("doughnut.jpg");
+    height: 250px;
+    width: 50%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    
+}
+.footertwo{
+    background-image: url("flour.jpg");
+    height: 250px;
+    width: 50%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: flex;
+}
+.base{
+    background-color: rgba(1,1,1,0.8);
+    height: 40px;
+    width: 100%;
+    color: white;
+}
